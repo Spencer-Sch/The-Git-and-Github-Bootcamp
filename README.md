@@ -12,6 +12,8 @@
 
 - Complete
 
-### Section 4 - Installation & Setup
+### Section 4 - The Very Basics of Git: Adding & Committing
 
 - Complete
+
+### Section 5 - Commits in Detail (and Related Topics)
