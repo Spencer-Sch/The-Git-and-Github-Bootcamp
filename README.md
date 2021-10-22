@@ -3,3 +3,5 @@
 ### Section 1 - Course Orientation
 
 ### Section 2 - Introducing...Git!
+
+### Section 3 - Installation & Setup
