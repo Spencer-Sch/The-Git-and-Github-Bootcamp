@@ -19,3 +19,7 @@
 ### Section 5 - Commits in Detail (and Related Topics)
 
 - Complete
+
+### Section 6 - Working With Branches
+
+- Complete
