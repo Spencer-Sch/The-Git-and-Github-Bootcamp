@@ -17,3 +17,5 @@
 - Complete
 
 ### Section 5 - Commits in Detail (and Related Topics)
+
+- Complete
