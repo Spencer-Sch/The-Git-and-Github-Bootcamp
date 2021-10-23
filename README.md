@@ -23,3 +23,7 @@
 ### Section 6 - Working With Branches
 
 - Complete
+
+### Section 7 - Merging Branches, Oh Boy!
+
+- Complete
