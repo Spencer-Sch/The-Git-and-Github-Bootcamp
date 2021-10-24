@@ -31,3 +31,7 @@
 ### Section 8 - Comparing Changed With Git Diff
 
 - Complete
+
+### Section 9 - The Ins and Outs of Stashing
+
+- Complete
