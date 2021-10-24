@@ -27,3 +27,7 @@
 ### Section 7 - Merging Branches, Oh Boy!
 
 - Complete
+
+### Section 8 - Comparing Changed With Git Diff
+
+- Complete
