@@ -35,3 +35,7 @@
 ### Section 9 - The Ins and Outs of Stashing
 
 - Complete
+
+### Section 10 - Undoing Changes & Time Traveling
+
+- Complete
