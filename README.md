@@ -43,3 +43,7 @@
 ### Section 11 - Gitgub: The Basics
 
 - Complete
+
+### Section 12 - Fetching & Pulling
+
+- Complete
