@@ -55,3 +55,7 @@
 ### Section 14 - Git Collaboration Workflows
 
 - Complete
+
+### Section 15 - Rebasing: The Scariest Git Command?
+
+- Complete
