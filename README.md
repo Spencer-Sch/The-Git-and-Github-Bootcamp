@@ -51,3 +51,7 @@
 ### Section 13 - Github Grab Bag: Odds & Ends
 
 - Complete
+
+### Section 14 - Git Collaboration Workflows
+
+- Complete
