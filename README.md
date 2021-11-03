@@ -59,3 +59,7 @@
 ### Section 15 - Rebasing: The Scariest Git Command?
 
 - Complete
+
+### Section 16 - Clean Up History With Interactive Rebase
+
+- Complete
