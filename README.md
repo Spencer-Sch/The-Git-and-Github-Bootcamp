@@ -63,3 +63,7 @@
 ### Section 16 - Clean Up History With Interactive Rebase
 
 - Complete
+
+### Section 17 - Git Tags: Marking Important Moments In History
+
+- Complete
