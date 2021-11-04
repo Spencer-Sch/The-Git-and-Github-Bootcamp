@@ -67,3 +67,7 @@
 ### Section 17 - Git Tags: Marking Important Moments In History
 
 - Complete
+
+### Section 18 - Git Behind The Scenes - Hashing & Objects
+
+- Complete
