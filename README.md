@@ -71,3 +71,7 @@
 ### Section 18 - Git Behind The Scenes - Hashing & Objects
 
 - Complete
+
+### Section 19 - The Power of Reflogs - Retrieving "Lost" Work
+
+- Complete
