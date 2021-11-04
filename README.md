@@ -75,3 +75,9 @@
 ### Section 19 - The Power of Reflogs - Retrieving "Lost" Work
 
 - Complete
+
+### Section 20 - Writing Custom Git Aliases
+
+- Complete
+
+## Course Complete!
