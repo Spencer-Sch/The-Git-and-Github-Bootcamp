@@ -96,4 +96,4 @@ Tracking my progress through the course.
 
 ## Course Complete!
 
-[Back To The Top](#the-git-&-github-bootcamp)
+[Back To The Top](#the-git--github-bootcamp)
