@@ -14,7 +14,7 @@ Tracking my progress through the course.
 
 ## Course Sections
 
-##### Section 1 - Course Orientation
+#### Section 1 - Course Orientation
 
 ✅ Complete
 
