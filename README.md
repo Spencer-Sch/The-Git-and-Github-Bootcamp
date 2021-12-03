@@ -1,83 +1,99 @@
-# Working through 'The Git & Github Bootcamp' by Colt Steele
+# The Git & Github Bootcamp
 
-### Section 1 - Course Orientation
+#### by Colt Steele
 
-- Complete
+[Udemy Link](https://www.udemy.com/course/git-and-github-bootcamp/)
 
-### Section 2 - Introducing...Git!
+---
 
-- Complete
+## Description
 
-### Section 3 - Installation & Setup
+Tracking my progress through the course.
 
-- Complete
+---
 
-### Section 4 - The Very Basics of Git: Adding & Committing
+## Course Sections
 
-- Complete
+##### Section 1 - Course Orientation
 
-### Section 5 - Commits in Detail (and Related Topics)
+✅ Complete
 
-- Complete
+#### Section 2 - Introducing...Git!
 
-### Section 6 - Working With Branches
+✅ Complete
 
-- Complete
+#### Section 3 - Installation & Setup
 
-### Section 7 - Merging Branches, Oh Boy!
+✅ Complete
 
-- Complete
+#### Section 4 - The Very Basics of Git: Adding & Committing
 
-### Section 8 - Comparing Changed With Git Diff
+✅ Complete
 
-- Complete
+#### Section 5 - Commits in Detail (and Related Topics)
 
-### Section 9 - The Ins and Outs of Stashing
+✅ Complete
 
-- Complete
+#### Section 6 - Working With Branches
 
-### Section 10 - Undoing Changes & Time Traveling
+✅ Complete
 
-- Complete
+#### Section 7 - Merging Branches, Oh Boy!
 
-### Section 11 - Gitgub: The Basics
+✅ Complete
 
-- Complete
+#### Section 8 - Comparing Changed With Git Diff
 
-### Section 12 - Fetching & Pulling
+✅ Complete
 
-- Complete
+#### Section 9 - The Ins and Outs of Stashing
 
-### Section 13 - Github Grab Bag: Odds & Ends
+✅ Complete
 
-- Complete
+#### Section 10 - Undoing Changes & Time Traveling
 
-### Section 14 - Git Collaboration Workflows
+✅ Complete
 
-- Complete
+#### Section 11 - Gitgub: The Basics
 
-### Section 15 - Rebasing: The Scariest Git Command?
+✅ Complete
 
-- Complete
+#### Section 12 - Fetching & Pulling
 
-### Section 16 - Clean Up History With Interactive Rebase
+✅ Complete
 
-- Complete
+#### Section 13 - Github Grab Bag: Odds & Ends
 
-### Section 17 - Git Tags: Marking Important Moments In History
+✅ Complete
 
-- Complete
+#### Section 14 - Git Collaboration Workflows
 
-### Section 18 - Git Behind The Scenes - Hashing & Objects
+✅ Complete
 
-- Complete
+#### Section 15 - Rebasing: The Scariest Git Command?
 
-### Section 19 - The Power of Reflogs - Retrieving "Lost" Work
+✅ Complete
 
-- Complete
+#### Section 16 - Clean Up History With Interactive Rebase
 
-### Section 20 - Writing Custom Git Aliases
+✅ Complete
 
-- Complete
+#### Section 17 - Git Tags: Marking Important Moments In History
+
+✅ Complete
+
+#### Section 18 - Git Behind The Scenes - Hashing & Objects
+
+✅ Complete
+
+#### Section 19 - The Power of Reflogs - Retrieving "Lost" Work
+
+✅ Complete
+
+#### Section 20 - Writing Custom Git Aliases
+
+✅ Complete
 
 ## Course Complete!
+
+[Back To The Top](#the-git-&-github-bootcamp)
